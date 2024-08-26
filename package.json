@@ -60,5 +60,3 @@
   }
 }
 
-rsync -avz --exclude 'node_modules' --exclude '.git'  \
-. root@128.199.89.42:~/app2
